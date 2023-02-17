@@ -1,7 +1,7 @@
 site_name: Platform
 site_description: A netcore microservices chassis
 site_author: Facundo Glaeser
-site_url: https://ochoajuanm-gla.github.io/docs/
+site_url: https://ochoajuanm-gla.github.io/docs
 
 theme:
   name: material
